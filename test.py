@@ -20,3 +20,4 @@ calculator = Calculator()
 calculator.name = 'hhhh'
 calculator.add(1, 2)
 calculator.minus(0,2)
+calculator.times(2,3)
