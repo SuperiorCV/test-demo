@@ -8,7 +8,7 @@ class Calculator:
         print(result)
 
     def minus(self, x, y):
-        result = x-y
+        result = x*y
         print(result)
 
     def times(self, x, y):
