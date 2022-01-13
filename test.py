@@ -9,6 +9,7 @@ class Calculator:
 
     def minus(self, x, y):
         result = x / y
+        result = x*y
         print(result)
 
     def times(self, x, y):
