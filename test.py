@@ -19,3 +19,4 @@ class Calculator:
 calculator = Calculator()
 calculator.name = 'hhhh'
 calculator.add(1, 2)
+calculator.minus(0,2)
